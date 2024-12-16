@@ -1,0 +1,19 @@
+{
+  "name": "senaymoviesbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.16.0",
+    "@tanstack/react-query": "^5.51.18",
+    "@tanstack/react-query-devtools": "^5.51.18",
+    "axios": "^1.7.3",
+    "cors": "^2.8.5"
+  
+  }
+}

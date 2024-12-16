@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* src/styles/scrollbar.css */
+
+/* Default scrollbar styles for all screen sizes */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 0px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #0c0c0c;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: rgba(59, 5, 1, 0.582);
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(82, 1, 1);
+  }
+  
+  /* Scrollbar styles for small screens (e.g., sm) */
+  @media (min-width: 640px) {
+    ::-webkit-scrollbar {
+      width: 10px;
+      height: 3px;
+    }
+  
+    ::-webkit-scrollbar-track {
+      background: #0c0c0c;
+    }
+  
+    ::-webkit-scrollbar-thumb {
+      background: rgba(41, 41, 41, 0.8);
+    }
+  
+    ::-webkit-scrollbar-thumb:hover {
+      background: rgb(31, 31, 30);
+    }
+  }
+  
+  /* Add more media queries for larger screen sizes if needed */
+  
