@@ -15,7 +15,7 @@ Here are some screenshots of the Senay Movie site:
 ![Search Page](https://github.com/Andi-gech/Senay-Movie/raw/main/ReadMepics/Screenshot%20from%202024-12-16%2016-57-14.png)
 
 ### Movie Details Page
-![Movie Details Page](https://github.com/Andi-gech/Senay-Movie/raw/main/ReadMepics/Screenshot%20from%202024-12-16%2016-57-14.png)
+![Movie Details Page](https://github.com/Andi-gech/Senay-Movie/blob/main/ReadMepics/Screenshot%20from%202024-12-16%2016-57-40.png)
 
 ---
 
